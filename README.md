@@ -1,11 +1,11 @@
 <p align="center">
   <img src="http://cdn.discordapp.com/emojis/483612861898162187.png" alt="Logo">
   
-  <h1 align="center"><strong>The List of Developing Languages in Brackeys Server so far</strong></h1>
+  <h2 align="center"><strong>The List of Developing Languages in Brackeys Server so far</strong></h2>
 
   <p align="center">
     Developing Compilers/Interpreters has become a trend in some members of the Brackeys Community Discord Server.
-    <br /><br />
+    <br />
     It's hard to keep track of how many there are, so this list brings them all together in one place!
     <br /><br />
     <a href="https://discord.gg/brackeys"><img alt="Join us in Brackeys Discord Server!" src="https://img.shields.io/badge/%20-Join%20us%20in%20Brackeys%20Discord%20Server!-7289DA?style=for-the-badge&logo=discord&logoColor=f0f0f0"></a>
