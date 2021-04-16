@@ -79,7 +79,7 @@
 <h2></h2>
 
   <h3 align="center">
-  <strong><a href="https://github.com/rushilkoul/oakscript">OakScript</a></strong> by <a href="https://github.com/rushilkoul">RushilKoul</a>
+  <strong><a href="https://github.com/rushilkoul/oakscript">OakScript</a></strong> by <a href="https://github.com/rushilkoul">RKraft</a>
   </h3>
   <p align="center">
     <sup><strong><i>
