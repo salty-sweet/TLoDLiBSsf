@@ -39,7 +39,7 @@
   </h3>
   <p align="center">
     <sup><strong><i>
-      "I decided to make a language via C#."
+      "A language that is going to be compiled to IL, that works on Linux and Windows, more platforms coming soon."
     </i></strong></sup>
   </p>
 
