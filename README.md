@@ -68,11 +68,11 @@
 <h2></h2>
 
   <h3 align="center">
-  <strong><a href="https://github.com/ANF-Studios/Brainfuck-Interpreter/tree/cpp_impl_anfuck">ANFuck</a></strong> by <a href="https://github.com/ANF-Studios">ANF Studios</a>
+  <strong><a href="https://github.com/ANF-Studios/Brainfuck-Interpreter/tree/cpp_impl_anfuck">ANFuck</a></strong> by <a href="https://github.com/ANF-Studios">ANF-Studios</a>
   </h3>
   <p align="center">
     <sup><strong><i>
-      "A simple Brainfuck interpreter written in C#."
+      "ANFuck, a subset of Brainfuck written in C++"
     </i></strong></sup>
   </p>
 
