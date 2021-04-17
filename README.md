@@ -39,7 +39,7 @@
   </h3>
   <p align="center">
     <sup><strong><i>
-      "A language that is going to be compiled to IL, that works on Linux and Windows, more platforms coming soon."
+      "A language that is going to be compiled to IL, that works on Linux and Windows, Mac, and Ubuntu."
     </i></strong></sup>
   </p>
 
