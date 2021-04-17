@@ -18,7 +18,12 @@
   <p align="center">
     <sup><strong><i>
       "The Vivian Compiler and Vivian Tools which offer the language and code analysis API."
-    </i></strong></sup>
+      </i></strong></sup>
+    <br/><br/>
+    <img src="https://img.shields.io/github/stars/WaifuShork/Vivian?style=flat-square">
+    <img src="https://img.shields.io/github/license/WaifuShork/Vivian?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/WaifuShork/Vivian?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/WaifuShork/Vivian?style=flat-square">
   </p>
 
 <h2></h2>
@@ -30,6 +35,11 @@
     <sup><strong><i>
       "A developing Esoteric Programming Language."
     </i></strong></sup>
+    <br/><br/>
+    <img src="https://img.shields.io/github/stars/mellobacon/MadLad?style=flat-square">
+    <img src="https://img.shields.io/github/license/mellobacon/MadLad?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/mellobacon/MadLad?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/mellobacon/MadLad?style=flat-square">
   </p>
 
 <h2></h2>
@@ -41,6 +51,11 @@
     <sup><strong><i>
       "A language that is going to be compiled to IL, that works on Linux and Windows, more platforms coming soon."
     </i></strong></sup>
+    <br/><br/>
+    <img src="https://img.shields.io/github/stars/Juptian/Uranium?style=flat-square">
+    <img src="https://img.shields.io/github/license/Juptian/Uranium?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/juptian/Uranium?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/Juptian/Uranium?style=flat-square">
   </p>
 
 <h2></h2>
@@ -52,6 +67,11 @@
     <sup><strong><i>
       "A Language That Compiles To IL. More Details Coming Soon™"
     </i></strong></sup>
+    <br/><br/>
+    <img src="https://img.shields.io/github/stars/roboknight5/Roboticol?style=flat-square">
+    <img src="https://img.shields.io/github/license/roboknight5/Roboticol?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/roboknight5/Roboticol?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/roboknight5/Roboticol?style=flat-square">
   </p>
 
 <h2></h2>
@@ -63,6 +83,11 @@
     <sup><strong><i>
       "The repo for the unnammed-language compiler."
     </i></strong></sup>
+    <br/><br/>
+    <img src="https://img.shields.io/github/stars/Unammed-Language-Project/Unammed-Language?style=flat-square">
+    <img src="https://img.shields.io/github/license/Unammed-Language-Project/Unammed-Language?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/Unammed-Language-Project/Unammed-Language?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/Unammed-Language-Project/Unammed-Language?style=flat-square">
   </p>
 
 <h2></h2>
@@ -74,6 +99,11 @@
     <sup><strong><i>
       "ANFuck, a subset of Brainfuck written in C++"
     </i></strong></sup>
+    <br/><br/>
+    <img src="https://img.shields.io/github/stars/ANF-Studios/Brainfuck-Interpreter?style=flat-square">
+    <img src="https://img.shields.io/github/license/ANF-Studios/Brainfuck-Interpreter?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/ANF-Studios/Brainfuck-Interpreter/cpp_impl_anfuck?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/ANF-Studios/Brainfuck-Interpreter?style=flat-square">
   </p>
 
 <h2></h2>
@@ -85,6 +115,11 @@
     <sup><strong><i>
       "A pogchamp, super epic compiler."
     </i></strong></sup>
+    <br/><br/>
+    <img src="https://img.shields.io/github/stars/rushilkoul/oakscript?style=flat-square">
+    <img src="https://img.shields.io/github/license/rushilkoul/oakscript?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/rushilkoul/oakscript?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/rushilkoul/oakscript?style=flat-square">
   </p>
 
 
@@ -97,6 +132,11 @@
     <sup><strong><i>
       "The official (non-existing) repository for Shino programming language."
     </i></strong></sup>
+    <br/><br/>
+    <img src="https://img.shields.io/github/stars/salty-sweet/Shino?style=flat-square">
+    <img src="https://img.shields.io/github/license/salty-sweet/Shino?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/salty-sweet/Shino?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/salty-sweet/Shino?style=flat-square">
   </p>
 
 <h2></h2>
@@ -108,6 +148,11 @@
     <sup><strong><i>
       "No description, website, or topics provided."
     </i></strong></sup>
+    <br/><br/>
+    <img src="https://img.shields.io/github/stars/anis/DZScript?style=flat-square">
+    <img src="https://img.shields.io/github/license/anis/DZScript?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/anis/DZScript?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/anis/DZScript?style=flat-square">
   </p>
   
 <h2></h2>
