@@ -29,6 +29,22 @@
 <h2></h2>
 
   <h3 align="center">
+  <strong><a href="https://github.com/Juptian/Uranium">Uranium</a></strong> by <a href="https://github.com/Juptian">Juptian</a>
+  </h3>
+  <p align="center">
+    <sup><strong><i>
+      "A language that is going to be compiled to IL, that works on Linux and Windows, Mac, and Ubuntu."
+    </i></strong></sup>
+    <br/><br/>
+    <img src="https://img.shields.io/github/stars/Juptian/Uranium?style=flat-square">
+    <img src="https://img.shields.io/github/license/Juptian/Uranium?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/juptian/Uranium?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/Juptian/Uranium?style=flat-square">
+  </p>
+  
+<h2></h2>
+
+  <h3 align="center">
     <strong><a href="https://github.com/mellobacon/MadLad">MadLad</a></strong> by <a href="https://github.com/mellobacon">Mellobacon</a>
   </h3>
   <p align="center">
@@ -45,17 +61,17 @@
 <h2></h2>
 
   <h3 align="center">
-  <strong><a href="https://github.com/Juptian/Uranium">Uranium</a></strong> by <a href="https://github.com/Juptian">Juptian</a>
+  <strong><a href="https://github.com/ANF-Studios/Brainfuck-Interpreter/tree/cpp_impl_anfuck">ANFuck</a></strong> by <a href="https://github.com/ANF-Studios">ANF-Studios</a>
   </h3>
   <p align="center">
     <sup><strong><i>
-      "A language that is going to be compiled to IL, that works on Linux and Windows, Mac, and Ubuntu."
+      "ANFuck, a subset of Brainfuck written in C++"
     </i></strong></sup>
     <br/><br/>
-    <img src="https://img.shields.io/github/stars/Juptian/Uranium?style=flat-square">
-    <img src="https://img.shields.io/github/license/Juptian/Uranium?style=flat-square">
-    <img src="https://img.shields.io/github/last-commit/juptian/Uranium?style=flat-square">
-    <img src="https://img.shields.io/github/languages/top/Juptian/Uranium?style=flat-square">
+    <img src="https://img.shields.io/github/stars/ANF-Studios/Brainfuck-Interpreter?style=flat-square">
+    <img src="https://img.shields.io/github/license/ANF-Studios/Brainfuck-Interpreter?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/ANF-Studios/Brainfuck-Interpreter/cpp_impl_anfuck?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/ANF-Studios/Brainfuck-Interpreter?style=flat-square">
   </p>
 
 <h2></h2>
@@ -93,22 +109,6 @@
 <h2></h2>
 
   <h3 align="center">
-  <strong><a href="https://github.com/ANF-Studios/Brainfuck-Interpreter/tree/cpp_impl_anfuck">ANFuck</a></strong> by <a href="https://github.com/ANF-Studios">ANF-Studios</a>
-  </h3>
-  <p align="center">
-    <sup><strong><i>
-      "ANFuck, a subset of Brainfuck written in C++"
-    </i></strong></sup>
-    <br/><br/>
-    <img src="https://img.shields.io/github/stars/ANF-Studios/Brainfuck-Interpreter?style=flat-square">
-    <img src="https://img.shields.io/github/license/ANF-Studios/Brainfuck-Interpreter?style=flat-square">
-    <img src="https://img.shields.io/github/last-commit/ANF-Studios/Brainfuck-Interpreter/cpp_impl_anfuck?style=flat-square">
-    <img src="https://img.shields.io/github/languages/top/ANF-Studios/Brainfuck-Interpreter?style=flat-square">
-  </p>
-
-<h2></h2>
-
-  <h3 align="center">
   <strong><a href="https://github.com/rushilkoul/oakscript">OakScript</a></strong> by <a href="https://github.com/rushilkoul">RKraft</a>
   </h3>
   <p align="center">
@@ -122,7 +122,30 @@
     <img src="https://img.shields.io/github/languages/top/rushilkoul/oakscript?style=flat-square">
   </p>
 
+<h2></h2>
 
+  <h3 align="center">
+  <strong><a href="https://github.com/kookielang">KookieLang</a></strong> by <a href="https://github.com/billyeatcookies">Billy</a>
+  </h3>
+  <p align="center">
+    <sup><strong><i>
+      "Simple, fast, safe, compiled language."
+    </i></strong></sup>
+    <br/><br/>
+    <img src="https://img.shields.io/github/stars/kookielang/Kookie?style=flat-square">
+    <img src="https://img.shields.io/github/license/kookielang/Kookie?style=flat-square">
+    <br/><br/>
+  <a href="https://github.com/kookielang/Kookie"><sup><strong>Python</strong></sup></a>
+    <br/>
+    <img src="https://img.shields.io/github/last-commit/kookielang/Kookie?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/kookielang/Kookie?style=flat-square">
+    <br/>
+  <a href="https://github.com/kookielang/KookieNet"><sup><strong>C#</strong></sup></a>
+    <br/>
+    <img src="https://img.shields.io/github/last-commit/kookielang/KookieNet?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/kookielang/KookieNet?style=flat-square">
+  </p>
+  
 <h2></h2>
 
   <h3 align="center">
@@ -153,30 +176,6 @@
     <img src="https://img.shields.io/github/license/Oseryx/DZScript?style=flat-square">
     <img src="https://img.shields.io/github/last-commit/Oseryx/DZScript?style=flat-square">
     <img src="https://img.shields.io/github/languages/top/Oseryx/DZScript?style=flat-square">
-  </p>
-  
-<h2></h2>
-
-  <h3 align="center">
-  <strong><a href="https://github.com/kookielang">KookieLang</a></strong> by <a href="https://github.com/billyeatcookies">Billy</a>
-  </h3>
-  <p align="center">
-    <sup><strong><i>
-      "Simple, fast, safe, compiled language."
-    </i></strong></sup>
-    <br/><br/>
-    <img src="https://img.shields.io/github/stars/kookielang/Kookie?style=flat-square">
-    <img src="https://img.shields.io/github/license/kookielang/Kookie?style=flat-square">
-    <br/><br/>
-  <a href="https://github.com/kookielang/Kookie"><sup><strong>Python</strong></sup></a>
-    <br/>
-    <img src="https://img.shields.io/github/last-commit/kookielang/Kookie?style=flat-square">
-    <img src="https://img.shields.io/github/languages/top/kookielang/Kookie?style=flat-square">
-    <br/>
-  <a href="https://github.com/kookielang/KookieNet"><sup><strong>C#</strong></sup></a>
-    <br/>
-    <img src="https://img.shields.io/github/last-commit/kookielang/KookieNet?style=flat-square">
-    <img src="https://img.shields.io/github/languages/top/kookielang/KookieNet?style=flat-square">
   </p>
   
 <h2></h2>
