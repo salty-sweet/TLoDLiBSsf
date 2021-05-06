@@ -68,10 +68,10 @@
       "ANFuck, a subset of Brainfuck written in C++"
     </i></strong></sup>
     <br/><br/>
-    <img src="https://img.shields.io/github/stars/ANF-Studios/Brainfuck-Interpreter?style=flat-square">
-    <img src="https://img.shields.io/github/license/ANF-Studios/Brainfuck-Interpreter?style=flat-square">
-    <img src="https://img.shields.io/github/last-commit/ANF-Studios/Brainfuck-Interpreter/cpp_impl_anfuck?style=flat-square">
-    <img src="https://img.shields.io/github/languages/top/ANF-Studios/Brainfuck-Interpreter?style=flat-square">
+    <img src="https://img.shields.io/github/stars/ANF-Studios/ANFuck?style=flat-square">
+    <img src="https://img.shields.io/github/license/ANF-Studios/ANFuck?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/ANF-Studios/ANFuck?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/ANF-Studios/ANFuck?style=flat-square">
   </p>
 
 <h2></h2>
