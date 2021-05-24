@@ -165,6 +165,22 @@
 <h2></h2>
 
   <h3 align="center">
+    <strong><a href="https://github.com/Sidohh/CloverLang">CloverLang</a></strong> by <a href="https://github.com/Sidohh">Sidohh</a>
+  </h3>
+  <p align="center">
+    <sup><strong><i>
+      "A simple and powerful language written in python."
+    </i></strong></sup>
+    <br/><br/>
+    <img src="https://img.shields.io/github/stars/Sidohh/CloverLang?style=flat-square">
+    <img src="https://img.shields.io/github/license/Sidohh/CloverLang?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/Sidohh/CloverLang?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/Sidohh/CloverLang?style=flat-square">
+  </p>
+
+<h2></h2>
+
+  <h3 align="center">
   <strong><a href="https://github.com/salty-sweet/Shino">Shino</a></strong> by <a href="https://github.com/salty-sweet">ＳＡＬＴＹＳＷＥＥＴ</a>
   </h3>
   <p align="center">
