@@ -61,22 +61,6 @@
 <h2></h2>
 
   <h3 align="center">
-  <strong><a href="https://github.com/ANF-Studios/Brainfuck-Interpreter/tree/cpp_impl_anfuck">ANFuck</a></strong> by <a href="https://github.com/ANF-Studios">ANF-Studios</a>
-  </h3>
-  <p align="center">
-    <sup><strong><i>
-      "ANFuck, a subset of Brainfuck written in C++"
-    </i></strong></sup>
-    <br/><br/>
-    <img src="https://img.shields.io/github/stars/ANF-Studios/ANFuck?style=flat-square">
-    <img src="https://img.shields.io/github/license/ANF-Studios/ANFuck?style=flat-square">
-    <img src="https://img.shields.io/github/last-commit/ANF-Studios/ANFuck?style=flat-square">
-    <img src="https://img.shields.io/github/languages/top/ANF-Studios/ANFuck?style=flat-square">
-  </p>
-
-<h2></h2>
-
-  <h3 align="center">
   <strong><a href="https://github.com/kookielang">KookieLang</a></strong> by <a href="https://github.com/billyeatcookies">Billy</a>
   </h3>
   <p align="center">
@@ -90,6 +74,22 @@
     <img src="https://img.shields.io/github/languages/top/kookielang/Kookie?style=flat-square">
   </p>
   
+<h2></h2>
+
+  <h3 align="center">
+  <strong><a href="https://github.com/ANF-Studios/Brainfuck-Interpreter/tree/cpp_impl_anfuck">ANFuck</a></strong> by <a href="https://github.com/ANF-Studios">ANF-Studios</a>
+  </h3>
+  <p align="center">
+    <sup><strong><i>
+      "ANFuck, a subset of Brainfuck written in C++"
+    </i></strong></sup>
+    <br/><br/>
+    <img src="https://img.shields.io/github/stars/ANF-Studios/ANFuck?style=flat-square">
+    <img src="https://img.shields.io/github/license/ANF-Studios/ANFuck?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/ANF-Studios/ANFuck?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/ANF-Studios/ANFuck?style=flat-square">
+  </p>
+
 <h2></h2>
 
   <h3 align="center">
@@ -109,22 +109,6 @@
 <h2></h2>
 
   <h3 align="center">
-  <strong><a href="https://github.com/roboknight5/Roboticol">Roboticol</a></strong> by <a href="https://github.com/roboknight5">RoboKnight</a>
-  </h3>
-  <p align="center">
-    <sup><strong><i>
-      "A Language That Compiles To IL. More Details Coming Soon™"
-    </i></strong></sup>
-    <br/><br/>
-    <img src="https://img.shields.io/github/stars/roboknight5/Roboticol?style=flat-square">
-    <img src="https://img.shields.io/github/license/roboknight5/Roboticol?style=flat-square">
-    <img src="https://img.shields.io/github/last-commit/roboknight5/Roboticol?style=flat-square">
-    <img src="https://img.shields.io/github/languages/top/roboknight5/Roboticol?style=flat-square">
-  </p>
-
-<h2></h2>
-
-  <h3 align="center">
     <strong><a href="https://github.com/Sidohh/CloverLang">CloverLang</a></strong> by <a href="https://github.com/Sidohh">Sidohh</a>
   </h3>
   <p align="center">
@@ -136,6 +120,22 @@
     <img src="https://img.shields.io/github/license/Sidohh/CloverLang?style=flat-square">
     <img src="https://img.shields.io/github/last-commit/Sidohh/CloverLang?style=flat-square">
     <img src="https://img.shields.io/github/languages/top/Sidohh/CloverLang?style=flat-square">
+  </p>
+
+<h2></h2>
+
+  <h3 align="center">
+  <strong><a href="https://github.com/roboknight5/Roboticol">Roboticol</a></strong> by <a href="https://github.com/roboknight5">RoboKnight</a>
+  </h3>
+  <p align="center">
+    <sup><strong><i>
+      "A Language That Compiles To IL. More Details Coming Soon™"
+    </i></strong></sup>
+    <br/><br/>
+    <img src="https://img.shields.io/github/stars/roboknight5/Roboticol?style=flat-square">
+    <img src="https://img.shields.io/github/license/roboknight5/Roboticol?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/roboknight5/Roboticol?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/roboknight5/Roboticol?style=flat-square">
   </p>
 
 <h2></h2>
