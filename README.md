@@ -45,22 +45,6 @@
 <h2></h2>
 
   <h3 align="center">
-    <strong><a href="https://github.com/mellobacon/MadLad">MadLad</a></strong> by <a href="https://github.com/mellobacon">Mellobacon</a>
-  </h3>
-  <p align="center">
-    <sup><strong><i>
-      "A developing Esoteric Programming Language."
-    </i></strong></sup>
-    <br/><br/>
-    <img src="https://img.shields.io/github/stars/mellobacon/MadLad?style=flat-square">
-    <img src="https://img.shields.io/github/license/mellobacon/MadLad?style=flat-square">
-    <img src="https://img.shields.io/github/last-commit/mellobacon/MadLad?style=flat-square">
-    <img src="https://img.shields.io/github/languages/top/mellobacon/MadLad?style=flat-square">
-  </p>
-
-<h2></h2>
-
-  <h3 align="center">
   <strong><a href="https://github.com/kookielang">KookieLang</a></strong> by <a href="https://github.com/billyeatcookies">Billy</a>
   </h3>
   <p align="center">
@@ -74,6 +58,22 @@
     <img src="https://img.shields.io/github/languages/top/kookielang/Kookie?style=flat-square">
   </p>
   
+<h2></h2>
+
+  <h3 align="center">
+    <strong><a href="https://github.com/mellobacon/MadLad">MadLad</a></strong> by <a href="https://github.com/mellobacon">Mellobacon</a>
+  </h3>
+  <p align="center">
+    <sup><strong><i>
+      "A developing Esoteric Programming Language."
+    </i></strong></sup>
+    <br/><br/>
+    <img src="https://img.shields.io/github/stars/mellobacon/MadLad?style=flat-square">
+    <img src="https://img.shields.io/github/license/mellobacon/MadLad?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/mellobacon/MadLad?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/mellobacon/MadLad?style=flat-square">
+  </p>
+
 <h2></h2>
 
   <h3 align="center">
