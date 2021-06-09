@@ -45,7 +45,7 @@
 <h2></h2>
 
   <h3 align="center">
-  <strong><a href="https://github.com/kookielang">KookieLang</a></strong> by <a href="https://github.com/billyeatcookies">Billy</a>
+  <strong><a href="https://github.com/kookielang/Kookie">KookieLang</a></strong> by <a href="https://github.com/billyeatcookies">Billy</a>
   </h3>
   <p align="center">
     <sup><strong><i>
@@ -56,6 +56,22 @@
     <img src="https://img.shields.io/github/license/kookielang/Kookie?style=flat-square">
     <img src="https://img.shields.io/github/last-commit/kookielang/Kookie?style=flat-square">
     <img src="https://img.shields.io/github/languages/top/kookielang/Kookie?style=flat-square">
+  </p>
+  
+<h2></h2>
+
+  <h3 align="center">
+  <strong><a href="https://github.com/Crypt-Language/Crypt">Crypt</a></strong> by <a href="https://github.com/AurumByte">AurumByte</a>
+  </h3>
+  <p align="center">
+    <sup><strong><i>
+      "The Crypt Programming Language."
+    </i></strong></sup>
+    <br/><br/>
+    <img src="https://img.shields.io/github/stars/Crypt-Language/Crypt?style=flat-square">
+    <img src="https://img.shields.io/github/license/Crypt-Language/Crypt?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/Crypt-Language/Crypt?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/Crypt-Language/Crypt?style=flat-square">
   </p>
   
 <h2></h2>
@@ -77,6 +93,22 @@
 <h2></h2>
 
   <h3 align="center">
+  <strong><a href="https://github.com/Pi-Man/A_Compiler">A</a></strong> by <a href="https://github.com/Pi-Man">4™ man</a>
+  </h3>
+  <p align="center">
+    <sup><strong><i>
+      "A low level language created from a literal dream."
+    </i></strong></sup>
+    <br/><br/>
+    <img src="https://img.shields.io/github/stars/Pi-Man/A_Compiler?style=flat-square">
+    <img src="https://img.shields.io/github/license/Pi-Man/A_Compiler?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/Pi-Man/A_Compiler?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/Pi-Man/A_Compiler?style=flat-square">
+  </p>
+  
+<h2></h2>
+
+  <h3 align="center">
   <strong><a href="https://github.com/ANF-Studios/Brainfuck-Interpreter/tree/cpp_impl_anfuck">ANFuck</a></strong> by <a href="https://github.com/ANF-Studios">ANF-Studios</a>
   </h3>
   <p align="center">
@@ -93,19 +125,19 @@
 <h2></h2>
 
   <h3 align="center">
-  <strong><a href="https://github.com/Pi-Man/A_Compiler">A</a></strong> by <a href="https://github.com/Pi-Man">4™ man</a>
+  <strong><a href="https://github.com/Sable-20/monkey-golang">Monkey</a></strong> by <a href="https://github.com/Sable-20">Sable-20</a>
   </h3>
   <p align="center">
     <sup><strong><i>
-      "A low level language created from a literal dream."
+      "No description, website, or topics provided."
     </i></strong></sup>
     <br/><br/>
-    <img src="https://img.shields.io/github/stars/Pi-Man/A_Compiler?style=flat-square">
-    <img src="https://img.shields.io/github/license/Pi-Man/A_Compiler?style=flat-square">
-    <img src="https://img.shields.io/github/last-commit/Pi-Man/A_Compiler?style=flat-square">
-    <img src="https://img.shields.io/github/languages/top/Pi-Man/A_Compiler?style=flat-square">
+    <img src="https://img.shields.io/github/stars/Sable-20/monkey-golang?style=flat-square">
+    <img src="https://img.shields.io/github/license/Sable-20/monkey-golang?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/Sable-20/monkey-golang?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/Sable-20/monkey-golang?style=flat-square">
   </p>
-  
+
 <h2></h2>
 
   <h3 align="center">
@@ -184,22 +216,6 @@
     <img src="https://img.shields.io/github/license/rushilkoul/oakscript?style=flat-square">
     <img src="https://img.shields.io/github/last-commit/rushilkoul/oakscript?style=flat-square">
     <img src="https://img.shields.io/github/languages/top/rushilkoul/oakscript?style=flat-square">
-  </p>
-
-<h2></h2>
-
-  <h3 align="center">
-  <strong><a href="https://github.com/Sable-20/monkey-golang">Monkey</a></strong> by <a href="https://github.com/Sable-20">Sable-20</a>
-  </h3>
-  <p align="center">
-    <sup><strong><i>
-      "No description, website, or topics provided."
-    </i></strong></sup>
-    <br/><br/>
-    <img src="https://img.shields.io/github/stars/Sable-20/monkey-golang?style=flat-square">
-    <img src="https://img.shields.io/github/license/Sable-20/monkey-golang?style=flat-square">
-    <img src="https://img.shields.io/github/last-commit/Sable-20/monkey-golang?style=flat-square">
-    <img src="https://img.shields.io/github/languages/top/Sable-20/monkey-golang?style=flat-square">
   </p>
 
 <h2></h2>
