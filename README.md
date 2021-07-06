@@ -189,17 +189,17 @@
 <h2></h2>
 
   <h3 align="center">
-  <strong><a href="https://github.com/lines-of-codes/StoryScript">StoryScript</a></strong> by <a href="https://github.com/lines-of-codes">GameCreator/lines-of-codes</a>
+  <strong><a href="https://github.com/StoryScriptorg/StoryScript">StoryScript</a></strong> by <a href="https://github.com/lines-of-codes">GameCreator/lines-of-codes</a>
   </h3>
   <p align="center">
     <sup><strong><i>
       "The language, to tell a story."
     </i></strong></sup>
     <br/><br/>
-    <img src="https://img.shields.io/github/stars/lines-of-codes/StoryScript?style=flat-square">
-    <img src="https://img.shields.io/github/license/lines-of-codes/StoryScript?style=flat-square">
-    <img src="https://img.shields.io/github/last-commit/lines-of-codes/StoryScript?style=flat-square">
-    <img src="https://img.shields.io/github/languages/top/lines-of-codes/StoryScript?style=flat-square">
+    <img src="https://img.shields.io/github/stars/StoryScriptorg/StoryScript?style=flat-square">
+    <img src="https://img.shields.io/github/license/StoryScriptorg/StoryScript?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/StoryScriptorg/StoryScript?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/StoryScriptorg/StoryScript?style=flat-square">
   </p>
 
 <h2></h2>
