@@ -29,38 +29,6 @@
 <h2></h2>
 
   <h3 align="center">
-  <strong><a href="https://github.com/Juptian/Uranium">Uranium</a></strong> by <a href="https://github.com/Juptian">Juptian</a>
-  </h3>
-  <p align="center">
-    <sup><strong><i>
-      "A language that is going to be compiled to IL, that works on Linux and Windows, Mac, and Ubuntu."
-    </i></strong></sup>
-    <br/><br/>
-    <img src="https://img.shields.io/github/stars/Juptian/Uranium?style=flat-square">
-    <img src="https://img.shields.io/github/license/Juptian/Uranium?style=flat-square">
-    <img src="https://img.shields.io/github/last-commit/juptian/Uranium?style=flat-square">
-    <img src="https://img.shields.io/github/languages/top/Juptian/Uranium?style=flat-square">
-  </p>
-  
-<h2></h2>
-
-  <h3 align="center">
-  <strong><a href="https://github.com/kookielang/Kookie">KookieLang</a></strong> by <a href="https://github.com/billyeatcookies">Billy</a>
-  </h3>
-  <p align="center">
-    <sup><strong><i>
-      "Simple, fast, safe, compiled language."
-    </i></strong></sup>
-    <br/><br/>
-    <img src="https://img.shields.io/github/stars/kookielang/Kookie?style=flat-square">
-    <img src="https://img.shields.io/github/license/kookielang/Kookie?style=flat-square">
-    <img src="https://img.shields.io/github/last-commit/kookielang/Kookie?style=flat-square">
-    <img src="https://img.shields.io/github/languages/top/kookielang/Kookie?style=flat-square">
-  </p>
-  
-<h2></h2>
-
-  <h3 align="center">
   <strong><a href="https://github.com/Crypt-Language/Crypt">Crypt</a></strong> by <a href="https://github.com/AurumByte">AurumByte</a>
   </h3>
   <p align="center">
@@ -72,6 +40,22 @@
     <img src="https://img.shields.io/github/license/Crypt-Language/Crypt?style=flat-square">
     <img src="https://img.shields.io/github/last-commit/Crypt-Language/Crypt?style=flat-square">
     <img src="https://img.shields.io/github/languages/top/Crypt-Language/Crypt?style=flat-square">
+  </p>
+  
+<h2></h2>
+
+  <h3 align="center">
+  <strong><a href="https://github.com/Juptian/Uranium">Uranium</a></strong> by <a href="https://github.com/Juptian">Juptian</a>
+  </h3>
+  <p align="center">
+    <sup><strong><i>
+      "A language that is going to be compiled to IL, that works on Linux and Windows, Mac, and Ubuntu."
+    </i></strong></sup>
+    <br/><br/>
+    <img src="https://img.shields.io/github/stars/Juptian/Uranium?style=flat-square">
+    <img src="https://img.shields.io/github/license/Juptian/Uranium?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/juptian/Uranium?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/Juptian/Uranium?style=flat-square">
   </p>
   
 <h2></h2>
@@ -93,6 +77,22 @@
 <h2></h2>
 
   <h3 align="center">
+  <strong><a href="https://github.com/kookielang/Kookie">KookieLang</a></strong> by <a href="https://github.com/billyeatcookies">Billy</a>
+  </h3>
+  <p align="center">
+    <sup><strong><i>
+      "Simple, fast, safe, compiled language."
+    </i></strong></sup>
+    <br/><br/>
+    <img src="https://img.shields.io/github/stars/kookielang/Kookie?style=flat-square">
+    <img src="https://img.shields.io/github/license/kookielang/Kookie?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/kookielang/Kookie?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/kookielang/Kookie?style=flat-square">
+  </p>
+  
+<h2></h2>
+
+  <h3 align="center">
   <strong><a href="https://github.com/Pi-Man/A_Compiler">A</a></strong> by <a href="https://github.com/Pi-Man">4™ man</a>
   </h3>
   <p align="center">
@@ -106,6 +106,22 @@
     <img src="https://img.shields.io/github/languages/top/Pi-Man/A_Compiler?style=flat-square">
   </p>
   
+<h2></h2>
+
+  <h3 align="center">
+  <strong><a href="https://github.com/StoryScriptorg/StoryScript">StoryScript</a></strong> by <a href="https://github.com/lines-of-codes">GameCreator/lines-of-codes</a>
+  </h3>
+  <p align="center">
+    <sup><strong><i>
+      "The language, to tell a story."
+    </i></strong></sup>
+    <br/><br/>
+    <img src="https://img.shields.io/github/stars/StoryScriptorg/StoryScript?style=flat-square">
+    <img src="https://img.shields.io/github/license/StoryScriptorg/StoryScript?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/StoryScriptorg/StoryScript?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/StoryScriptorg/StoryScript?style=flat-square">
+  </p>
+
 <h2></h2>
 
   <h3 align="center">
@@ -157,22 +173,6 @@
 <h2></h2>
 
   <h3 align="center">
-  <strong><a href="https://github.com/roboknight5/Roboticol">Roboticol</a></strong> by <a href="https://github.com/roboknight5">RoboKnight</a>
-  </h3>
-  <p align="center">
-    <sup><strong><i>
-      "A Language That Compiles To IL. More Details Coming Soon™"
-    </i></strong></sup>
-    <br/><br/>
-    <img src="https://img.shields.io/github/stars/roboknight5/Roboticol?style=flat-square">
-    <img src="https://img.shields.io/github/license/roboknight5/Roboticol?style=flat-square">
-    <img src="https://img.shields.io/github/last-commit/roboknight5/Roboticol?style=flat-square">
-    <img src="https://img.shields.io/github/languages/top/roboknight5/Roboticol?style=flat-square">
-  </p>
-
-<h2></h2>
-
-  <h3 align="center">
   <strong><a href="https://github.com/Unammed-Language-Project/Neo">Neo</a></strong> by <a href="https://github.com/YeffyCodeGit">YeffyCodeGit</a>
   </h3>
   <p align="center">
@@ -189,17 +189,17 @@
 <h2></h2>
 
   <h3 align="center">
-  <strong><a href="https://github.com/StoryScriptorg/StoryScript">StoryScript</a></strong> by <a href="https://github.com/lines-of-codes">GameCreator/lines-of-codes</a>
+  <strong><a href="https://github.com/roboknight5/Roboticol">Roboticol</a></strong> by <a href="https://github.com/roboknight5">RoboKnight</a>
   </h3>
   <p align="center">
     <sup><strong><i>
-      "The language, to tell a story."
+      "A Language That Compiles To IL. More Details Coming Soon™"
     </i></strong></sup>
     <br/><br/>
-    <img src="https://img.shields.io/github/stars/StoryScriptorg/StoryScript?style=flat-square">
-    <img src="https://img.shields.io/github/license/StoryScriptorg/StoryScript?style=flat-square">
-    <img src="https://img.shields.io/github/last-commit/StoryScriptorg/StoryScript?style=flat-square">
-    <img src="https://img.shields.io/github/languages/top/StoryScriptorg/StoryScript?style=flat-square">
+    <img src="https://img.shields.io/github/stars/roboknight5/Roboticol?style=flat-square">
+    <img src="https://img.shields.io/github/license/roboknight5/Roboticol?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/roboknight5/Roboticol?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/roboknight5/Roboticol?style=flat-square">
   </p>
 
 <h2></h2>
