@@ -157,22 +157,6 @@
 <h2></h2>
 
   <h3 align="center">
-    <strong><a href="https://github.com/Sidohh/CloverLang">CloverLang</a></strong> by <a href="https://github.com/Sidohh">Sidohh</a>
-  </h3>
-  <p align="center">
-    <sup><strong><i>
-      "A simple and powerful language written in python."
-    </i></strong></sup>
-    <br/><br/>
-    <img src="https://img.shields.io/github/stars/Sidohh/CloverLang?style=flat-square">
-    <img src="https://img.shields.io/github/license/Sidohh/CloverLang?style=flat-square">
-    <img src="https://img.shields.io/github/last-commit/Sidohh/CloverLang?style=flat-square">
-    <img src="https://img.shields.io/github/languages/top/Sidohh/CloverLang?style=flat-square">
-  </p>
-
-<h2></h2>
-
-  <h3 align="center">
   <strong><a href="https://github.com/Unammed-Language-Project/Neo">Neo</a></strong> by <a href="https://github.com/YeffyCodeGit">YeffyCodeGit</a>
   </h3>
   <p align="center">
@@ -218,54 +202,6 @@
     <img src="https://img.shields.io/github/languages/top/rushilkoul/oakscript?style=flat-square">
   </p>
 
-<h2></h2>
-
-  <h3 align="center">
-  <strong><a href="https://github.com/callingpizza/Birch">Birch</a></strong> by <a href="https://github.com/callingpizza">Callingpizza</a>
-  </h3>
-  <p align="center">
-    <sup><strong><i>
-      "A simple language written in C/C++."
-    </i></strong></sup>
-    <br/><br/>
-    <img src="https://img.shields.io/github/stars/callingpizza/Birch?style=flat-square">
-    <img src="https://img.shields.io/github/license/callingpizza/Birch?style=flat-square">
-    <img src="https://img.shields.io/github/last-commit/callingpizza/Birch?style=flat-square">
-    <img src="https://img.shields.io/github/languages/top/callingpizza/Birch?style=flat-square">
-  </p>
-
-<h2></h2>
-
-  <h3 align="center">
-  <strong><a href="https://github.com/salty-sweet/Shino">Shino</a></strong> by <a href="https://github.com/salty-sweet">ＳＡＬＴＹＳＷＥＥＴ</a>
-  </h3>
-  <p align="center">
-    <sup><strong><i>
-      "The official (non-existing) repository for Shino programming language."
-    </i></strong></sup>
-    <br/><br/>
-    <img src="https://img.shields.io/github/stars/salty-sweet/Shino?style=flat-square">
-    <img src="https://img.shields.io/github/license/salty-sweet/Shino?style=flat-square">
-    <img src="https://img.shields.io/github/last-commit/salty-sweet/Shino?style=flat-square">
-    <img src="https://img.shields.io/github/languages/top/salty-sweet/Shino?style=flat-square">
-  </p>
-
-<h2></h2>
-
-  <h3 align="center">
-  <strong><a href="https://github.com/404https://github.com/Oseryx/DZScript">DZScript</a></strong> by <a href="https://github.com/Oseryx">Oseryx</a>
-  </h3>
-  <p align="center">
-    <sup><strong><i>
-      "No description, website, or topics provided."
-    </i></strong></sup>
-    <br/><br/>
-    <img src="https://img.shields.io/github/stars/Oseryx/DZScript?style=flat-square">
-    <img src="https://img.shields.io/github/license/Oseryx/DZScript?style=flat-square">
-    <img src="https://img.shields.io/github/last-commit/Oseryx/DZScript?style=flat-square">
-    <img src="https://img.shields.io/github/languages/top/Oseryx/DZScript?style=flat-square">
-  </p>
-  
 <h2></h2>
   <h2 align="center"><strong>Contributing to the List</strong></h2>
 
