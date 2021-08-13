@@ -8,6 +8,8 @@
     <br />
     It's hard to keep track of how many there are, so this list brings them all together in one place!
     <br /><br />
+  <sup><i><strong><a href=https://github.com/lines-of-codes/TLoGEiBSsf>There's also a list of Game Engines in the Brackeys Discord Server!</a></strong></i></sup>
+    <br /><br />
     <a href="https://discord.gg/brackeys"><img alt="Join us in Brackeys Discord Server!" src="https://img.shields.io/badge/%20-Join%20us%20in%20Brackeys%20Discord%20Server!-7289DA?style=for-the-badge&logo=discord&logoColor=f0f0f0"></a>
   </p>
 <h2></h2>
