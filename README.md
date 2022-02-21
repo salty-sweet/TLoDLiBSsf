@@ -15,17 +15,17 @@
 <h2></h2>
 
   <h3 align="center">
-    <strong><a href="https://github.com/WaifuShork/Vivian">Vivian</a></strong> by <a href="https://github.com/WaifuShork/">WaifuShork</a>
+    <strong><a href="https://github.com/WaifuShork/VSharp">V#</a></strong> by <a href="https://github.com/WaifuShork/">WaifuShork</a>
   </h3>
   <p align="center">
     <sup><strong><i>
-      "The Vivian Compiler and Vivian Tools which offer the language and code analysis API."
+      "An open source, object-oriented, type-safe, and elegant programming language."
       </i></strong></sup>
     <br/><br/>
-    <img src="https://img.shields.io/github/stars/WaifuShork/Vivian?style=flat-square">
-    <img src="https://img.shields.io/github/license/WaifuShork/Vivian?style=flat-square">
-    <img src="https://img.shields.io/github/last-commit/WaifuShork/Vivian?style=flat-square">
-    <img src="https://img.shields.io/github/languages/top/WaifuShork/Vivian?style=flat-square">
+    <img src="https://img.shields.io/github/stars/WaifuShork/VSharp?style=flat-square">
+    <img src="https://img.shields.io/github/license/WaifuShork/VSharp?style=flat-square">
+    <img src="https://img.shields.io/github/last-commit/WaifuShork/VSharp?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/WaifuShork/VSharp?style=flat-square">
   </p>
 
 <h2></h2>
