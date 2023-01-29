@@ -1,3 +1,8 @@
+> **Warning**
+>
+> This list hasn't been receiving active maintenance and updates since **February 2022**. 
+> Some content may have been removed, renamed, archived, or hidden by their respective creators by the time you're viewing this repo.
+
 <p align="center">
   <img src="http://cdn.discordapp.com/emojis/483612861898162187.png" alt="Logo">
   
